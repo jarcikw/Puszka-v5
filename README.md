@@ -2,7 +2,7 @@
 wall module based on ESP8266 12S, SSR
 
 C1,C2,C4,C6 - 100nF/25V SMD:0603 , when using I2C do not solder C1,C2  
-C3 - 100uf/6V - TANTAL 3216-18	 
+C3 - 100uf/6V - TANTAL 3216-18  
 C5 - 100uF/4V - TANTAL 3216-18	 
 D1,D2 - LED SMD:0603	 
 F1,F2 - Fuse 2410 (1A) (https://www.digikey.com/en/product-highlight/t/te-connectivity/2410-smt-fuses)	 
