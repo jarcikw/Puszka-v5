@@ -1,5 +1,6 @@
 # Puszka-v5
-wall module based on ESP8266 12S, SSR
+wall module based on ESP8266 12S, SSR  
+**Dimensions 46mm x 46mm x 22mm**  
 
 R13,R15 - 360R SMD 0603  
 R6,R7 - 1K SMD 0603  
