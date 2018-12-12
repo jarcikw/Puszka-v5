@@ -1,6 +1,10 @@
 # Puszka-v5
 wall module based on ESP8266 12S, SSR
 
+R13,R15 - 360R SMD 0603  
+R6,R7 - 1K SMD 0603  
+R12,R10 10K SMD 0603 
+R1-R5,R8,R9,R11,R14 - 4,7K SMD 0603    
 C1,C2,C4,C6 - 100nF/25V SMD:0603 , when using I2C do not solder C1,C2  
 C3 - 100uf/6V - TANTAL 3216-18  
 C5 - 100uF/4V - TANTAL 3216-18  
