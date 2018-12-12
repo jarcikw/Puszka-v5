@@ -21,3 +21,4 @@ U3 - MCP1825T-3302E/DC
 U4,U5 - optocoupler PC817C SOP4  
 K1,K2 - Relay G3MB-202P 5DC  
  
+ ![alt text](https://github.com/jarcikw/Puszka-v5/blob/master/PuszkaV5_6.jpg)
